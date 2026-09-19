@@ -39,4 +39,4 @@ jupyter notebook NovaRetail_Data_Analysis.ipynb
 ![Top 10 Countries by Revenue](images/05_top10_countries_revenue.png)
 
 ## 📬 Connect
-[LinkedIn](#) · [Kaggle](#)
+[LinkedIn](#) · [[Kaggle](https://www.kaggle.com/ahmedshanaa)](#)
